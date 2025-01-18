@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy Carlos!</h1>
 <h3 align="center">Un apasionado desarrollador Full-Stack de Ecuador</h3>
 <h4 align="center"><b><i>"Primero, resuelve el problema. Luego, escribe el código"</i></b></h4>
-<p>Soy un profesional con más de 1 año de experiencia en el desarrollo e implementación de soluciones de infraestructura TI. Recientemente completé un bootcamp de desarrollor full-stack, lo que me ha permitido ampliar mis conocimientos técnicos. Estoy entusiasmado por aplicar estas habilidades en nuevos proyectos, con el objetivo de crecer profesionalmente, enfrentar nuevos desafíos y seguir aprendiendo en un entorno dinámico</p>
+<p>Soy un profesional con más de un año de experiencia en el desarrollo e implementación de soluciones de infraestructura TI. Tras completar recientemente un bootcamp de desarrollo full-stack, he ampliado mis habilidades técnicas y fortalecido mi capacidad para abordar proyectos de manera integral. Estoy motivado por la oportunidad de aplicar estos conocimientos en nuevos desafíos, desarrollarme profesionalmente y continuar aprendiendo en entornos dinámicos e innovadores</p>
 <div align="center">
   <a href="https://github.com/Lsacro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsacro&layout=compact&langs_count=7&theme=dark"/>
