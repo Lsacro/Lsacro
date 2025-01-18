@@ -1,8 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1 align="center">Hola 👋, Soy Carlos!</h1>
-<h3 align="center">A passionate full-stack developer from Ecuador</h3>
-<h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+<h3 align="center">Un apasionado desarrollador Full-Stack de Ecuador</h3>
+<h4 align="center"><b><i>"Primero, resuelve el problema. Luego, escribe el código"</i></b></h4>
 <div align="center">
   <a href="https://github.com/israelhp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsacro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
