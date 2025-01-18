@@ -15,7 +15,7 @@
 <a href="mailto:catrujillob8@gmail.com@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
-<div aling="center">
+<div align="center">
 
 ## :computer: Tecnologías y herramientas
 
