@@ -1,23 +1,19 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+[![Matrix SVG](https://raw.githubusercontent.com/Lsacro/Lsacro/refs/heads/main/assets/matrix.svg)](https://www.youtube.com/watch?v=UxqUIZ6kBTI)
 
 <h1 align="center">Hola 👋, Soy Carlos!</h1>
 <h3 align="center">Un apasionado desarrollador Full-Stack de Ecuador</h3>
 <h4 align="center"><b><i>"Primero, resuelve el problema. Luego, escribe el código"</i></b></h4>
+<p>Soy un profesional con más de 1 año de experiencia en el desarrollo e implementación de soluciones de infraestructura TI. Recientemente completé un bootcamp de desarrollo full-stack, lo que me ha permitido ampliar mis conocimientos técnicos. Estoy entusiasmado por aplicar estas habilidades en nuevos proyectos, con el objetivo de crecer profesionalmente, enfrentar nuevos desafíos y seguir aprendiendo en un entorno dinámico.</p>
 <div align="center">
-  <a href="https://github.com/israelhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsacro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Lsacro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsacro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div align ="center"> 
-  <a href="https://www.instagram.com/isra_legend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/israel.pinto.505/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:israelhurtarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-hurtarte-pinto-738245218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:catrujillob8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/catrujillob" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
 
-Credit: [israelhp](https://github.com/israelhp)
-
-Last Edited on: 26/09/2021
+Credit: [Carlos Trujillo](https://github.com/Lsacro)
