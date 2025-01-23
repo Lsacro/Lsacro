@@ -19,21 +19,21 @@ Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar 
 
 <div align="center">
 <br />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/HTML.svg" height="100" width="120" alt="html5 logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/CSS.svg" height="100" width="120" alt="css3 logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TailwindCSS-Dark.svg" height="100" width="120" alt="tailwindcss logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/JavaScript.svg" height="100" width="120" alt="javascript logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/React-Dark.svg" height="100" width="120" alt="react logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TypeScript.svg" height="100" width="120" alt="typescript logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/HTML.svg" height="80" width="120" alt="html5 logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/CSS.svg" height="80" width="120" alt="css3 logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TailwindCSS-Dark.svg" height="80" width="120" alt="tailwindcss logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/JavaScript.svg" height="80" width="120" alt="javascript logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/React-Dark.svg" height="80" width="120" alt="react logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TypeScript.svg" height="80" width="120" alt="typescript logo"  />
 
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/NodeJS-Dark.svg" height="100" width="120" alt="nodejs logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/ExpressJS-Dark.svg" height="100" width="120" alt="express logo"  />  
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MongoDB.svg" height="100" width="120" alt="mongodb logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MySQL-Dark.svg" height="100" width="120" alt="mysql logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Git.svg" height="100" width="120" alt="git logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Github-Dark.svg" height="100" width="120" alt="github logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/NodeJS-Dark.svg" height="80" width="120" alt="nodejs logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/ExpressJS-Dark.svg" height="80" width="120" alt="express logo"  />  
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MongoDB.svg" height="80" width="120" alt="mongodb logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MySQL-Dark.svg" height="80" width="120" alt="mysql logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Git.svg" height="80" width="120" alt="git logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Github-Dark.svg" height="80" width="120" alt="github logo"  />
 </div>
 <br>
 <br>
