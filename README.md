@@ -2,7 +2,7 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/Lsacro/Lsacro/refs/heads/main/assets/matrix.svg)](https://www.youtube.com/watch?v=UxqUIZ6kBTI)
 
-[![GitHub followers](https://img.shields.io/github/followers/lsacro?style=for-the-badge&logo=github)](https://github.com/Lsacro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--Trujillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catrujillob/) [![Gmail](https://img.shields.io/badge/Gmail-catrujillob8@gmail.com_-E4405F?style=for-the-badge&logo=gmail)](https://www.instagram.com/hans_ortiz_)
+[![GitHub followers](https://img.shields.io/github/followers/lsacro?style=for-the-badge&logo=github)](https://github.com/Lsacro) [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catrujillob/) [![Gmail](https://img.shields.io/badge/Gmail-_-E4405F?style=for-the-badge&logo=gmail)](https://www.instagram.com/hans_ortiz_)
 
 </div>
 
@@ -19,19 +19,21 @@ Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar 
 
 <div align="center">
 <br />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/html5/html5-plain-wordmark.svg" height="100" width="120" alt="html5 logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/css3/css3-plain-wordmark.svg" height="100" width="120" alt="css3 logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/ae94f214e6bf6f4c784cfd4df1ee743d2a36c457/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="120" alt="tailwindcss logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/javascript/javascript-original.svg" height="100" width="120" alt="javascript logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/react/react-original-wordmark.svg" height="100" width="120" alt="react logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/HTML.svg" height="100" width="120" alt="html5 logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/CSS.svg" height="100" width="120" alt="css3 logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TailwindCSS-Dark.svg" height="100" width="120" alt="tailwindcss logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/JavaScript.svg" height="100" width="120" alt="javascript logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/React-Dark.svg" height="100" width="120" alt="react logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/TypeScript.svg" height="100" width="120" alt="typescript logo"  />
 
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/nodejs/nodejs-original-wordmark.svg" height="100" width="120" alt="nodejs logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/express/express-original-wordmark.svg" height="100" width="120" alt="express logo"  />  
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/mongodb/mongodb-plain-wordmark.svg" height="100" width="120" alt="mongodb logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/mongoose/mongoose-original-wordmark.svg" height="100" width="120" alt="mongoose logo"  />
-<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons/typescript/typescript-original.svg" height="100" width="120" alt="typescript logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/NodeJS-Dark.svg" height="100" width="120" alt="nodejs logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/ExpressJS-Dark.svg" height="100" width="120" alt="express logo"  />  
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MongoDB.svg" height="100" width="120" alt="mongodb logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/MySQL-Dark.svg" height="100" width="120" alt="mysql logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Git.svg" height="100" width="120" alt="git logo"  />
+<img src="https://raw.githubusercontent.com/Lsacro/miscellaneous-icons/refs/heads/main/icons2/Github-Dark.svg" height="100" width="120" alt="github logo"  />
 </div>
 <br>
 <br>
