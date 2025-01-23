@@ -9,13 +9,13 @@
 <h1 align="center">Hola✌️Soy Carlos | Desarrollador Full-Stack | EC</h1>
 <h4 align="center"><b><i>"Primero, resuelve el problema. Luego, escribe el código"</i></b></h4>
 
-# 🚀 Acerca de mí
+<h1>🚀 Acerca de mí</h1>
 
 <p>Soy un profesional con sólida experiencia en infraestructura de TI que decidió dar un giro en su carrera para incursionar en el apasionante mundo de la programación. Tras completar un bootcamp de desarrollo fullstack, he ampliado mis habilidades técnicas y fortalecido mi capacidad para abordar proyectos de manera integral, combinando mi experiencia previa con mis nuevos conocimientos en desarrollo web.
 
 Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar soluciones creativas y continuar creciendo profesionalmente en el ámbito tecnológico. Mi objetivo es contribuir al desarrollo de proyectos que generen un impacto positivo y seguir aprendiendo en un sector en constante evolución</p>
 
-# 🦾 Tecnologías y Herramientas
+<h1>🦾 Tecnologías y Herramientas</h1>
 
 <div align="center">
 <br />
@@ -40,7 +40,7 @@ Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar 
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-# 👾 Soft Skills
+<h1>👾 Soft Skills</h1>
 
 <div>
         <ul>
