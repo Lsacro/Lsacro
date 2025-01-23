@@ -38,6 +38,22 @@ Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar 
 <br>
 <br>
 
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+## 👾 Soft Skills
+
+<div>
+        <ul>
+            <li>🌱 <b>Trabajo en equipo</b></li>
+            <li>🎯 <b>Proactividad</b></li>
+            <li>🤔 <b>Capacidad de autogestión</li>
+            <li>💬 <b>Atención al detalle</li>
+            <li>📫 <b>Adaptabilidad al cambio</li>
+            <li>😄 <b>Comunicación verbal</li>
+            <li>👨‍💻 <b>Pensamiento Analítico</li>
+        </ul>
+</div>
+
 <div align="center">
   <a href="https://github.com/Lsacro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsacro&layout=compact&langs_count=7&theme=dark"/>
