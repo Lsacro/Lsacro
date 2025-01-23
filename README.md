@@ -53,7 +53,9 @@ Estoy motivado por aplicar estas competencias en desafíos innovadores, aportar 
             <li>👨‍💻 <b>Pensamiento Analítico</li>
         </ul>
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/Lsacro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsacro&layout=compact&langs_count=7&theme=dark"/>
